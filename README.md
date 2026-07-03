@@ -3,9 +3,8 @@ A Power BI project that visualizes cybersecurity incident data with interactive 
 # Executive Dashboard
 ![Executive Dashboard](Executive_Dashboard.png)
 # Threat Intelligence Dashboard
-![Threat Intelligence Dashboard](Threat_Intelligence_dashboard.png)
-
-
+![Threat Intelligence Dashboard](Threat_intelligence_dashboard.png)
+# Technologies Used
 powerbi
 power-query
 dax
